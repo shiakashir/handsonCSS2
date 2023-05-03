@@ -1,0 +1,151 @@
+body{
+    background-image: url(./img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container1{
+    padding: 30px;
+    border: 5px solid red;
+    margin-right: 60%;
+    border-radius: 35px;
+background-color: black;
+color: white;
+font-family: 'Roboto Condensed', sans-serif;
+font-style: italic;
+font-size: 200%;
+position: relative;
+top: 5px;
+line-height: 50px;
+}
+/* for continer2 */
+.container2{
+    padding: 5px;
+    border: 5px solid red;
+    border-radius: 35px;
+    margin-top: 20px;
+    margin-right: 1000px;
+    background-color: black;
+    color: white;
+    /* for changing postions */
+    position: relative;
+    left: 74%;
+    bottom: 150px;
+    font-family: 'Roboto Condensed', sans-serif;
+font-style: italic;
+font-size: 140%;
+
+}
+/* for container3 */
+.container3{
+    border: 5px solid red;
+    border-radius: 35px;
+    margin-right: 950px;
+    padding: 25px;
+    background-color: black;
+    color: white;
+    /* font style */
+    font-family: 'Roboto Condensed', sans-serif;
+    font-style: italic;
+    font-size: 140%;
+    /* for changing postion */
+    position: relative;
+    bottom: 300px;
+    left: 300px;
+}
+.container4{
+    border: 5px solid red;
+    border-radius: 35px;
+    margin-right: 950px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+text-align: center;
+position: relative;
+left: 33%;
+}
+/* css for menu */
+#menu1{
+    border: 3px solid green;
+    background-color: aqua;
+    color: rgb(59, 59, 184);
+    /* text-indent: 30px; */
+    width: 300px;
+    border-radius: 35px;
+    /* position: relative;
+top:35px; */
+}
+#menu2{
+    border: 3px solid green;
+    background-color: aqua;
+    color: rgb(59, 59, 184);
+    /* text-indent: 30px; */
+    width: 300px;
+    border-radius: 35px;
+/* position: relative; 
+left: 470px;
+bottom: 210px; */
+
+}
+#menu3{
+    border: 3px solid green;
+    background-color: aqua;
+    color: rgb(59, 59, 184);
+    /* text-indent: 30px; */
+    width: 300px;
+    border-radius: 35px;
+/* position: relative; 
+ left: 70%;
+bottom: 450px;  */
+
+}
+#menu4{
+    border: 3px solid green;
+    background-color: aqua;
+    color: rgb(59, 59, 184);
+    /* text-indent: 30px; */
+    width: 300px;
+    border-radius: 35px;
+/* position: relative;
+bottom: 350px; */
+
+}
+#menu5{
+    border: 3px solid green;
+    background-color: aqua;
+    color: rgb(59, 59, 184);
+    /* text-indent: 30px; */
+    width: 300px;
+    border-radius: 35px;
+/* position: relative;
+left:475px;
+bottom: 590px; */
+}
+#menu6{
+    border: 3px solid green;
+    background-color: aqua;
+    color: rgb(59, 59, 184);
+    /* text-indent: 30px; */
+    width: 300px;
+    border-radius: 35px;
+/* position: relative;
+left: 942px;
+bottom: 830px; */
+}
+/* FOR CIRCLE */
+#circle{
+    height: 500px;
+    border: 5px solid grey;
+    width: 500px;
+    background-color: rgb(29, 134, 160);
+    border-radius: 50%;
+    display: block;
+    text-align: center;
+    font-style: italic;
+position: relative;
+bottom: 1300px;
+font-size: large;
+}
+.container5{
+    position: relative;
+    top: 150px;
+}

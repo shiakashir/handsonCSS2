@@ -1,0 +1,13 @@
+#form {
+    border-style: dashed ;
+    border-color: red;
+border-width: 5px;
+margin-left: 910px;
+color: red;
+padding-left: 5px;
+padding-top: 30px;
+background-color: rgb(245, 246, 247);
+}
+.reset-pading{
+    padding-bottom: 30px;
+}

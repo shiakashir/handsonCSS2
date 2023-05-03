@@ -1,0 +1,18 @@
+.fcontainer1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding-bottom: 40px;
+}
+
+
+
+
+.fcontainer2{
+display: flex;
+justify-content: center;
+justify-content: space-between;
+}
+/* .fiteam{
+
+} */
